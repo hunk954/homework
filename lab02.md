@@ -3,13 +3,13 @@
 
 ### 安装工作
 最新版本的construct是construct3，但是为了更加方便的获得教程，我们还是选用construct2。尽管construct2编辑器只适用于Windows，但是我们制作的游戏可以运行在任何平台上。
-[下载链接](https://i01piccdn.sogoucdn.com/faaa05f9eea28625https://i01piccdn.sogoucdn.com/faaa05f9eea28625)
+[下载链接](http://www.pc0359.cn/downinfo/38823.html)
 
 ### 创建项目文件及界面介绍
-1. 创建项目文件
+1. 创建项目文件  
 (i)【ctrl+N快捷键】或【File->New】   
 (ii)【New empty project】
-2. 界面介绍
+2. 界面介绍  
 (i)【Layout 1】就是我们的可视化场景  
 (ii)【Zoom out】上面红色画圈部门Zoom out可以缩小场景以便我们控制  
 (iii)左边【layout size】就可以调整整个layout的大小，只有虚线区域内是可视的

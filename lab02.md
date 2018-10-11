@@ -3,5 +3,6 @@
 
 ### 安装工作
 最新版本的construct是construct3，但是为了更加方便的获得教程，我们还是选用construct2。尽管construct2编辑器只适用于Windows，但是我们制作的游戏可以运行在任何平台上。
+[下载链接](https://i01piccdn.sogoucdn.com/faaa05f9eea28625https://i01piccdn.sogoucdn.com/faaa05f9eea28625)
 
-### 
+### 的

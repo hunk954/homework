@@ -1,8 +1,13 @@
 # 以Construct 2制作平台游戏的新手指南
-相信有很多同学和我一样学习编程的一个动力是自己设计出一个游戏，在还没设计出一个比较宏大的游戏前，我们能够使用Construct 2创造任何类型的2D游戏。这边文章将要阐述我怎么使用Construct2制作一款射击游戏。
+相信有很多同学和我一样学习编程的一个动力是自己设计出一个游戏，在还没设计出一个比较宏大的游戏前，我们能够使用Construct 2创造任何类型的2D游戏，而且不需要任何一行代码。这边文章将要阐述我怎么使用Construct2制作一款射击游戏。
 
 ### 安装工作
 最新版本的construct是construct3，但是为了更加方便的获得教程，我们还是选用construct2。尽管construct2编辑器只适用于Windows，但是我们制作的游戏可以运行在任何平台上。
 [下载链接](https://i01piccdn.sogoucdn.com/faaa05f9eea28625https://i01piccdn.sogoucdn.com/faaa05f9eea28625)
 
-### 的
+### 创建项目文件及界面介绍
+1. 创建项目文件
+(i)【ctrl+N快捷键】或【File->New】 
+(ii)【New empty project】
+2. 界面介绍
+![场景](./图片1.jpg)

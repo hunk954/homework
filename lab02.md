@@ -45,5 +45,5 @@
 ![game](./images/game.gif)
 
 ## 相关教学视频
-[C2/Construct2游戏制作教程]  (https://www.bilibili.com/video/av1388302?from=search&seid=4200178113696622671)  
+[C2/Construct2游戏制作教程](https://www.bilibili.com/video/av1388302?from=search&seid=4200178113696622671)  
 感谢B站up主 [@oeasy](https://space.bilibili.com/2884629/#/)

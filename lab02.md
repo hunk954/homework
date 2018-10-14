@@ -21,4 +21,4 @@
 ![layout1](./images/htmlGame_2.png)
 ![layout2](./images/htmlGame_3.png)
 
-![game](./image/game.gif)
+![game](./images/game.gif)

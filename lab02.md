@@ -14,3 +14,5 @@
 (ii)【Zoom out】上面红色画圈部门Zoom out可以缩小场景以便我们控制  
 (iii)左边【layout size】就可以调整整个layout的大小，只有虚线区域内是可视的
 ![场景](./图片1.jpg)
+
+![game](.game.gif)

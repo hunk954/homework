@@ -13,6 +13,12 @@
 (i)【Layout 1】就是我们的可视化场景  
 (ii)【Zoom out】上面红色画圈部门Zoom out可以缩小场景以便我们控制  
 (iii)左边【layout size】就可以调整整个layout的大小，只有虚线区域内是可视的
-![场景](./图片1.jpg)
+![场景](./image/htmlGame_1.jpg)
+3. 创建背景  
+（i)双击背景灰色区域，弹出菜单  
+（ii)选择【9-patch】  
+（iii)在layout中选中背景覆盖区域后在弹出页面选择打开文件夹，选中图片即可  
+![layout1](./image/htmlGame_2.png)
+![layout2](./image/htmlGame_3.png)
 
-![game](.game.gif)
+![game](./image/game.gif)

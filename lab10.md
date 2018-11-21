@@ -39,3 +39,19 @@ $$
 
 </font>
 ![cal3](./images/python3.png)
+
+<font size = "3">
+$$
+\begin{equation}
+{
+\left(
+\begin{array}
+12 & 2 & 3\\
+1 & -1 & 0\\
+-1 & 2 & 1
+\end{array}
+\right )}^{-1}
+\end{equation}
+$$
+</font>
+![cal4](./images/python4.png)

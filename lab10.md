@@ -15,3 +15,27 @@
 ![cal2](./images/python2.png)
 
 #### 2.选择2个线性代数上的作业，如求dot、逆矩阵等，最好会解方程。（建议阅读《用Python做科学计算》）
+<font size = "3">
+$$
+\begin{equation}
+{
+\left(
+\begin{array}
+11 & 2 & 3\\
+4 & 5 & 6\\
+7 & 8 & 9
+\end{array}
+\right )}
+{
+\left(
+\begin{array}
+11 & 1 & 1\\
+1 & 1 & 1\\
+1 & 1 & 1
+\end{array}
+\right )}
+\end{equation}
+$$
+
+</font>
+![cal3](./images/python3.png)

@@ -8,10 +8,10 @@
 2. 操作系统：Windows  
 ### 实验内容
 #### 1.选择2个高等数学上的作业，如泰勒分解、公式化简、解方程等。 （一般搜索不到有价值的答案）
- $$ \lim_{x \to 0} \frac{\sqrt{1+x} - \sqrt{1-x}}{x} $$  
- ![cal1](./images/python1.png)
+<font size = "3">$$ \lim_{x \to 0} \frac{\sqrt{1+x} - \sqrt{1-x}}{x} $$  </font>
+![cal1](./images/python1.png)
 
-$$ \int_{-1}^{1}  \frac{xdx}{\sqrt{5-4x}}$$
-![cal][./images/python2.png]
+<font size = "3">$$ \int_{-1}^{1}  \frac{xdx}{\sqrt{5-4x}}$$</font>
+![cal2](./images/python2.png)
 
 #### 2.选择2个线性代数上的作业，如求dot、逆矩阵等，最好会解方程。（建议阅读《用Python做科学计算》）

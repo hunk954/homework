@@ -159,3 +159,5 @@ void snakeEat(){
 }
 ```
 
+#### 四、游戏截图
+![snake](./images/snake.png)

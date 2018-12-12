@@ -90,4 +90,4 @@ char whereGoNext(int headX, int headY, int foodX, int foodY){
 ```
 
 ### 四、游戏截图
-!(snake)[./images/snakeAi.gif]
+![snake](./images/snakeAi.gif)
